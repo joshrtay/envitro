@@ -1,0 +1,10 @@
+{
+  "environment": {
+    "base": {
+      "qux": "woot"
+    },
+    "test": {
+      "foo": "bar"
+    }
+  }
+}
