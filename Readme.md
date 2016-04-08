@@ -39,7 +39,7 @@ process.env.API // => 'localhost:3000'
 
 ## API
 
-### pkgEnv(dir)
+### envitro(dir)
 
 - `dir` - director to locate package.json (default: process.cwd)
 
