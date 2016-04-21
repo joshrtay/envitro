@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@f/foreach": "^1.2.2",
+    "@f/is-string": "^1.1.1",
     "@f/is-undefined": "^1.1.1"
   },
   "devDependencies": {
