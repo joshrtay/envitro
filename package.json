@@ -2,7 +2,7 @@
   "name": "envitro",
   "description": "Load environment from package.json.",
   "repository": "git://github.com/joshrtay/envitro.git",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
